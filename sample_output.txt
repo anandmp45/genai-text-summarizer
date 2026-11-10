@@ -1,0 +1,8 @@
+Illustrative sample summary — Short bullet points
+
+• Renewable energy comes from naturally replenished sources such as sunlight, wind, water, and geothermal heat.
+• Solar panels and wind turbines convert natural energy into electricity.
+• Benefits include lower greenhouse gas emissions and reduced dependence on fossil fuels.
+• Challenges include weather dependence, location requirements, energy storage, and investment.
+
+Note: This example is provided to demonstrate the expected output format. A live summary is generated only after connecting a Gemini API key.
